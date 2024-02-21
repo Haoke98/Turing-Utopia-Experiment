@@ -158,3 +158,4 @@ After 15 evolutions, the reincarnation will no longer evolve (evolve).
 * Simulate and calculate the ideal population size and distribution (suitable for sustainable development and survival)
 * Take real-world data as input:
    * Simulate and calculate the ideal population size and distribution (suitable for sustainable development and survival)
+   * Stock activity forecasts
