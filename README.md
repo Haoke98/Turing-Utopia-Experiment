@@ -1,4 +1,5 @@
 # Turing Utopia Experiment
+
 <center><a href="README.zh.md">中文</a> | English</center>
 
 Built upon Conway's Game of Life, referencing the Utopia Experiment, and studying the butterfly effect, the project simulates and predicts non-living phenomena. It explores significant outcomes of minor changes and employs cellular automata, complex network models, and machine learning to provide new perspectives on future societal development.
@@ -151,6 +152,7 @@ After 15 evolutions, the reincarnation will no longer evolve (evolve).
    * Each round: Save the number of evolutions after several `evolution/evolution/trial` and entering the `steady state` (no more `evolution/evolution` or all `life units` die). (The evolution process does not need to be remembered)
    * Each round: Sort the saved content in reverse order by the number of evolutions. (It cannot be calculated by time, because time in the simulation world can be accelerated or expanded)
    * Each round: Once it enters the `steady state` (no further `evolution/evolution` or all `life units` die), the current cycle ends and a new cycle begins.
+* [ ] Conversion from 2D to 3D
 
 ## Apply assumptions
 * Simulate and calculate the ideal population size and distribution (suitable for sustainable development and survival)
